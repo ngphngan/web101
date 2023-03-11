@@ -1,0 +1,12 @@
+.image {
+  width: 200px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+li {
+  display: inline-block;
+}
+.content {
+  display: flex;
+  gap: 30px;
+}
